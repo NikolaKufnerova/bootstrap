@@ -1,0 +1,7 @@
+article{
+    text-align: center;
+}
+p[title=article]{
+    color: lightgray;
+    font-size: small;
+}
